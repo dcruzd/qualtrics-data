@@ -1,4 +1,4 @@
-[
+{"records": [
   {
     "policy": "The country should give everyone a monthly public transport allowance, regardless of income.",
     "stance": "For",
@@ -2640,3 +2640,4 @@
     "obs_id": 8654
   }
 ]
+}
